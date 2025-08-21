@@ -20,7 +20,7 @@ Can we predict if a customer will cancel an Uber ride **before it begins**, usin
 - ⚠️ **Note:** Labels are highly imbalanced (~7% cancellations)
 
 ## 📊 Dataset
-- **Name:** Uber Ride Analytics 2024  
+- **Name:** Uber Ride Analytics 2025
 - **Size:** ~150,000 bookings  
 - **Target:** Derived from booking status → `target_customer_cancelled`  
 - **Features:** Time of day, vehicle type, pickup/drop locations, user/driver ratings, etc.  
